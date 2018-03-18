@@ -1,21 +1,6 @@
 //----- Copyright (C) 2018 NNmJYwg -----//
 //-----           GPL v3           -----//
 
-// Checklist:
-// [x]  Implement input
-// -->  [x] Check the input to make sure it's 1-10 (and avoid negative numbers!)
-//
-// [x]  Finish the game manager
-//
-// [x]  Write the draw functions
-//
-// [x]  Write a function that will generate ships (for now just random squares)
-// -->  [ ] Write a function which will generate full ships
-//
-// [x]  Write a function that will check hits and misses
-// -->  [ ] Write a function that will keep track of destroyed ships
-//
-
 // Includes
 #include <iostream> // For IO
 #include <time.h> // To make a nice seed (not meant ambiguously)
